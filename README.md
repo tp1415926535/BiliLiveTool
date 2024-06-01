@@ -5,8 +5,8 @@
 
 其中悬浮窗口和网页可以切换 **“常规样式”** 和 **“聊天样式”**
 
-### 下载（v1.0.0.0）
-* [蓝奏云](https://wwp.lanzn.com/igcaJ20h7y0b)
+### 下载（v1.0.0.1）
+* [蓝奏云](https://wwp.lanzn.com/ioQTe20j6haf)
 
 ### 演示
 ![演示](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%A4%BA%E4%BE%8B.jpg)
@@ -18,4 +18,5 @@
 
 
 ### 版本
+* 2024/6/2 v1.0.0.1 发送弹幕频率强制控制最多一秒一条
 * 2024/6/1 v1.0.0.0 基本功能
