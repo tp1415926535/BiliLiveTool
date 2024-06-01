@@ -6,7 +6,7 @@
 其中悬浮窗口和网页可以切换 **“常规样式”** 和 **“聊天样式”**
 
 ### 下载（v1.0.0.0）
-* [蓝奏云](https://wwp.lanzn.com/i0gH920h54yd)
+* [蓝奏云](https://wwp.lanzn.com/itCVN20h7c4d)
 
 ### 演示
 ![演示](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%A4%BA%E4%BE%8B.jpg)
