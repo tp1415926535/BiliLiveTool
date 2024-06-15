@@ -15,8 +15,8 @@
 ### 说明
 ![首页](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.jpg)   
      
-![设置](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE.jpg)
-
+![设置1](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE1.jpg)     
+![设置2](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE2.jpg)
 
 ### 版本
 * 2024/6/15 v1.0.1.0 支持在程序主界面直接发送弹幕。支持给用户添加备注，直接弹幕右键或者在设置新增。备注的用户弹幕在程序主页面和悬浮窗后面显示绿色备注名。可以选择自动回复是否使用备注名
