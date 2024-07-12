@@ -7,7 +7,7 @@
 可设置连接房间，显示消息类型，保存消息类型，收益统计类型，欢迎词，打卡功能，用户备注等。
 
 ### 下载（v1.0.2.0）
-* [蓝奏云]()
+* [蓝奏云](https://ww0.lanzn.com/iq0L024akiid)
 
 ### 演示
 ![演示](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%A4%BA%E4%BE%8B.jpg)
