@@ -10,7 +10,10 @@
 * [蓝奏云](https://ww0.lanzn.com/i4TZr24d27rg)
 
 ### 演示
-![演示](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%A4%BA%E4%BE%8B.jpg)
+多端显示弹幕    
+![演示](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%A4%BA%E4%BE%8B.jpg)    
+全局飘屏效果    
+![飘屏](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A3%98%E5%B1%8F.jpg)    
 
 ### 说明
 ![首页](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.jpg)   
