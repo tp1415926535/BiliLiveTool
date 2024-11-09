@@ -23,13 +23,14 @@
 ![飘屏](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A3%98%E5%B1%8F.jpg)    
 
 ### 说明
-![首页](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.jpg)   
+![首页](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.png)   
      
-![设置1](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE1.jpg)     
-![设置2](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE2.jpg)
+![连接](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E8%BF%9E%E6%8E%A5.png)     
+![功能](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%8A%9F%E8%83%BD.png)
+![备注](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%A4%87%E6%B3%A8.png)
 
 ### 版本
-* 2024/11/8 v1.2.0.0 界面样式优化：新增明暗主题切换，弹窗现代化适配，标题调整增加图标占比，弹幕显示舰长图标；设置增加语音播报允许忽略自身或主播弹幕，欢迎词可设置舰长限制，关注直播间可播报语音，增加新的语音播报源；调整飘屏并发出现的拥挤情况；增加功能介绍，增加错误日志；用户数据和导出文件单独放入文件夹中；修复欢迎词限制失效，修复关闭窗体未正常等待导致子进程存留
+* 2024/11/8 v1.2.0.0 界面样式优化：新增明暗主题切换，弹窗现代化适配，标题调整增加图标占比，弹幕显示舰长图标；设置增加语音播报允许忽略自身或主播弹幕，欢迎词可设置舰长限制，关注直播间可播报语音，增加新的语音播报源；调整飘屏并发出现的拥挤情况；增加功能介绍，增加错误日志；用户数据和导出文件单独放入文件夹中；修复欢迎词限制失效，修复关闭窗体未正常等待导致子进程存留；尽可能排除不必要引用减少打包体积
 * 2024/11/3 v1.1.2.2 尝试优化签到写数据库和发送弹幕的并发逻辑
 * 2024/10/23 v1.1.2.1 增加扫码登录功能；语音播报增加礼物和弹幕消息支持；网页的气泡样式显示礼物消息，支持url带`#bubble`直接启用气泡样式
 * 2024/9/21 v1.1.2.0 修复进程互斥锁没有正常退出重复程序；chrome更新安全措施，新版浏览器缓存暂时无法读取，增加粘贴Cookie方式导入；支持管理员权限下设置防火墙入站规则
