@@ -18,7 +18,7 @@
 
 ### 演示
 多端显示弹幕    
-![演示](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%A4%BA%E4%BE%8B.jpg)    
+![演示](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%A4%9A%E7%AB%AF.png)    
 全局飘屏效果    
 ![飘屏](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A3%98%E5%B1%8F.jpg)    
 
