@@ -50,6 +50,7 @@
 ![功能2](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%8A%9F%E8%83%BD2.png)
 ![备注](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%A4%87%E6%B3%A8.png)
 ![工具](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%B7%A5%E5%85%B7.png)
+![系统设置](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%B3%BB%E7%BB%9F.png)
 
 ### 版本
 * 2025/04/18 v1.4.0.0 新增观看直播画面窗口，支持播放控制、音量控制、截图、置顶全屏、拖动拉伸。入口位于弹幕页面左下角第一个按钮；新增发送栏表情包；新增连接的房间开播和下播事件监听，新增主界面开播时长显示；新增备注信息列，可以额外记录目标用户相关备注；修复兼容部分官方直播间连接；更换数据库底层引用库，支持后续扩展字段
