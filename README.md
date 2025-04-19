@@ -21,7 +21,7 @@
 * 明暗主题切换
 
 ### 下载（v1.4.1.0）
-* [rar](https://files.zohopublic.com.cn/public/workdrive-public/download/rb2a3ab00550f99de43ea817fe0a95bc4af30?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%7D)
+* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/rb2a3ab00550f99de43ea817fe0a95bc4af30?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%7D)
 
 ### 如何使用
 1. 解压后启动`B站直播工具.exe`
@@ -43,14 +43,13 @@
 ![飘屏](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A3%98%E5%B1%8F.jpg)    
 
 ### 说明
-![首页](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.png)   
-     
+![首页]https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.png)   
+
+![功能列表](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.png)    
 ![连接](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E8%BF%9E%E6%8E%A5.png)     
-![功能1](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%8A%9F%E8%83%BD1.png)
-![功能2](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%8A%9F%E8%83%BD2.png)
-![备注](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%A4%87%E6%B3%A8.png)
-![工具](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%B7%A5%E5%85%B7.png)
-![系统设置](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%B3%BB%E7%BB%9F.png)
+![备注](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%A4%87%E6%B3%A8.png)    
+![工具](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%B7%A5%E5%85%B7.png)    
+![系统设置](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%B3%BB%E7%BB%9F.png)     
 
 ### 版本
 * 2025/04/19 v1.4.1.0 功能设置页面布局大改，增加导航栏和响应式标题色，详情采用可折叠卡片样式；修复用户备注保存条件
