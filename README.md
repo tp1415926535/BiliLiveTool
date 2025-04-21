@@ -43,7 +43,7 @@
 ![飘屏](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A3%98%E5%B1%8F.jpg)    
 
 ### 说明
-![首页]https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.png)   
+![首页](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E9%A6%96%E9%A1%B5.png)   
 
 ![功能列表](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8.png)    
 ![连接](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E8%BF%9E%E6%8E%A5.png)     
