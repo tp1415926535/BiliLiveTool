@@ -21,7 +21,7 @@
 * 明暗主题切换
 
 ### 下载（v1.4.3.0）
-* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/8fg6ncd96271873384c07a9350976b318d849?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%7D)
+* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/8fg6n93a32417466b48cdb608e6d6f0f62736?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%7D)
 
 ### 如何使用
 1. 解压后启动`B站直播工具.exe`
