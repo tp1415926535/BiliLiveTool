@@ -20,8 +20,8 @@
      * 直播间表情包尺寸转换
 * 明暗主题切换
 
-### 下载（v2.0.0.1）
-* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/w7e3ce1ecc3ecc1fb49d5be24f7c8b4d83f2c?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%7D)
+### 下载（v2.0.0.2）
+* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/9kwj7a95b0b1a62284ec8870e469911e01462?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D)
 
 ### 如何使用
 1. 解压后启动`B站直播工具.exe`
@@ -52,6 +52,7 @@
 ![系统设置](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%B3%BB%E7%BB%9F.png)     
 
 ### 版本
+* 2025/05/28 v2.0.0.2 修复直播信息流接口风控导致连接异常，并且所有直播间get请求都改为带上鉴权参数
 * 2025/05/12 v2.0.0.1 兼容基于chromium浏览器多用户的Cookie路径读取
 * 2025/05/07 v2.0.0.0 移除python进程内核，接口连接等改为完全C#实现。初始运行内存从220MB减至150MB，压缩包体积减少20MB。程序启动自动连接无延迟。作为后续扩展多房间/多平台功能基础；优化清屏后、关闭飘屏、断开房间连接及时清理内存占用；优化裁剪视频组件dll库，安装包体积减少7MB；攻克Chrome和Edge最新目前v136版本Cookie加密，并且支持浏览器打开时被占用也能读取；新增消息最大显示行数设置，可根据性能需求调整；调整Cookie输入框自动模糊打码，鼠标移入才可看见
 * 2025/04/25 v1.4.3.1 修复自动连接时机过早，导致连接状态未及时获取，显示异常
