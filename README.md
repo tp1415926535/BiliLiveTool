@@ -96,4 +96,4 @@
 
 
 ### 引用
-- B站相关：[bilibili-api](https://github.com/Nemo2011/bilibili-api)
+- B站相关：[bilibili-api-collect](https://github.com/SocialSisterYi/bilibili-API-collect)
