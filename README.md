@@ -20,8 +20,8 @@
      * 直播间表情包尺寸转换
 * 明暗主题切换
 
-### 下载（v2.0.1.0）
-* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/q4a33a114b208a0574d07860f8e6847f5f595?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D)
+### 下载（v2.0.2.0）
+* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/q4a33051e83b161c64ddd8e55c4d9ed5b0e6a?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D)
 
 ### 如何使用
 1. 解压后启动`B站直播工具.exe`
@@ -52,6 +52,7 @@
 ![系统设置](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%B3%BB%E7%BB%9F.png)     
 
 ### 版本
+* 2025/06/28 v2.0.2.0 增加弹幕回复兼容：支持各界面显示@用户、记录读写、可以右键指定弹幕回复；优化主程序的弹幕行内流式布局；优化网页端弹幕：允许切换新旧粉丝牌样式、更好的设置菜单样式、气泡样式显示粉丝牌、重连优化、打开时依照主程序配置；优化视频窗口，用直播间模糊封面代替黑色背景
 * 2025/06/21 v2.0.1.0 增强打卡功能：允许设置保存所有打卡记录，而不仅只有最新记录。增加查询指定日期的排行榜，增加全局秒速排行榜。
 * 2025/05/28 v2.0.0.2 修复直播信息流接口风控导致连接异常，并且所有直播间get请求都改为带上鉴权参数
 * 2025/05/12 v2.0.0.1 兼容基于chromium浏览器多用户的Cookie路径读取
