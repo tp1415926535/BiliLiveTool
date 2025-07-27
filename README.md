@@ -20,8 +20,8 @@
      * 直播间表情包尺寸转换
 * 明暗主题切换
 
-### 下载（v2.0.3.0）
-* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/dqd1m1f483fe957f844cfbfe436ad8dc6f287?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D)
+### 下载（v2.0.4.0）
+* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/kpgnr5f89c2067f7d4c0998303ff0e6fb1768?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D)
 
 ### 如何使用
 1. 解压后启动`B站直播工具.exe`
@@ -52,6 +52,7 @@
 ![系统设置](https://github.com/tp1415926535/BiliLiveTool/blob/main/%E6%88%AA%E5%9B%BE/%E7%B3%BB%E7%BB%9F.png)     
 
 ### 版本
+* 2025/07/26 v2.0.4.0 新增直播画面的屏幕录制功能（实验性，部分直播源录制的视频可能无法正常播放）；新增打卡排行榜类型：冠数榜，显示累计获取第一名的次数排行
 * 2025/07/14 v2.0.3.0 新增语音播报的本地合成的音色选择，允许输入自定义的内容进行语音合成播放
 * 2025/06/28 v2.0.2.0 增加弹幕回复兼容：支持各界面显示@用户、记录读写、可以右键指定弹幕回复；优化主程序的弹幕行内流式布局；优化网页端弹幕：允许切换新旧粉丝牌样式、更好的设置菜单样式、气泡样式显示粉丝牌、重连优化、打开时依照主程序配置；优化视频窗口，用直播间模糊封面代替黑色背景
 * 2025/06/21 v2.0.1.0 增强打卡功能：允许设置保存所有打卡记录，而不仅只有最新记录。增加查询指定日期的排行榜，增加全局秒速排行榜。
