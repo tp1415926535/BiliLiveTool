@@ -21,8 +21,8 @@
      * 直播间表情包尺寸转换
 * 明暗主题切换
 
-### 下载（v2.1.0.0）
-* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/p21gk376eded046f7410f852be9091310c27e?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D)
+### 下载（v2.0.4.0）
+* [.rar](https://files.zohopublic.com.cn/public/workdrive-public/download/kpgnr5f89c2067f7d4c0998303ff0e6fb1768?x-cli-msg=%7B%22isFileOwner%22%3Afalse%2C%22version%22%3A%221.0%22%2C%22isWDSupport%22%3Afalse%7D)
 
 ### 如何使用
 1. 解压后启动`B站直播工具.exe`
